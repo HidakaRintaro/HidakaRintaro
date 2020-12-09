@@ -22,4 +22,4 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HidakaRintaro&count_private=true&show_icons=true&theme=gotham" />
 </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=HidakaRintaro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HidakaRintaro&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
