@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidakaRintaro&theme=gotham&layout=compact" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HidakaRintaro&count_private=true&show_icons=true&theme=gotham" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidakaRintaro&theme=gotham&layout=compact" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HidakaRintaro&count_private=true&show_icons=true&theme=gotham" />
 </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HidakaRintaro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
