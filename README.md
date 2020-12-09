@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="left"> 
   <a href="https://github.com/HidakaRintaro/HidakaRintaro/">
-    <img src="https://komarev.com/ghpvc/?username=yutakatay" alt="yutakatay" />
+    <img src="https://komarev.com/ghpvc/?username=HidakaRintaro" alt="HidakaRintaro" />
   </a>
   <a href="http://twitter.com/HidakaRintaro">
     <img height="20" src="https://img.shields.io/twitter/follow/HidakaRintaro?label=Twitter&logo=twitter&style=flat" />
